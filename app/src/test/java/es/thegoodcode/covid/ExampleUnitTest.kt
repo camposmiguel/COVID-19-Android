@@ -1,4 +1,4 @@
-package dev.miguelcampos.covid
+package es.thegoodcode.covid
 
 import org.junit.Test
 

@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="dev.miguelcampos.covid.ui.home.HomeFragment"
+        android:name="es.thegoodcode.covid.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="dev.miguelcampos.covid.ui.dashboard.DashboardFragment"
+        android:name="es.thegoodcode.covid.ui.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="dev.miguelcampos.covid.ui.notifications.NotificationsFragment"
+        android:name="es.thegoodcode.covid.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
 </navigation>

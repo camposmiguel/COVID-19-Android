@@ -1,4 +1,4 @@
-package dev.miguelcampos.covid.ui.dashboard
+package es.thegoodcode.covid.ui.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import dev.miguelcampos.covid.R
+import es.thegoodcode.covid.R
 
 class DashboardFragment : Fragment() {
 

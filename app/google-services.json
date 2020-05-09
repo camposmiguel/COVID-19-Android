@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822268521211",
+    "firebase_url": "https://covid-19-exposure-815de.firebaseio.com",
+    "project_id": "covid-19-exposure-815de",
+    "storage_bucket": "covid-19-exposure-815de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822268521211:android:c6f6fa3ce1be65a9c0de5e",
+        "android_client_info": {
+          "package_name": "es.thegoodcode.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822268521211-epj4nmhimojunhlcfetv14cdoq9b55bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.thegoodcode.covid",
+            "certificate_hash": "c916424a4863721465ef57ceac402978abe983ed"
+          }
+        },
+        {
+          "client_id": "822268521211-l9i08i1rkapln233391tpa68obdmoa7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBKVu0atN7VO0CwGF5w17ZnVT-cMC7bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822268521211-l9i08i1rkapln233391tpa68obdmoa7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

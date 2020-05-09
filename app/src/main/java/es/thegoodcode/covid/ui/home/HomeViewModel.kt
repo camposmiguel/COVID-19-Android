@@ -1,4 +1,4 @@
-package dev.miguelcampos.covid.ui.home
+package es.thegoodcode.covid.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
